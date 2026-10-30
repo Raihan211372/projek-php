@@ -1,4 +1,5 @@
 <?php
+// Dikerjakan oleh Alif - Mahasiswa B (hapus mahasiswa)
 session_start();
 if (!isset($_SESSION["username"])) {
     header("Location: login.php");

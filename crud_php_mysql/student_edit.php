@@ -1,4 +1,5 @@
 <?php
+// Dikerjakan oleh Alif - Mahasiswa B (edit mahasiswa)
 session_start();
 if (!isset($_SESSION["username"])) {
     header("Location: login.php");
@@ -194,3 +195,4 @@ $select_fteic = ($faculty === "FTEIC") ? "selected" : "";
 <?php
 mysqli_close($connection);
 ?>
+
