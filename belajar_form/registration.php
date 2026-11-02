@@ -1,5 +1,6 @@
     <?php
     // Dikerjakan oleh: Raihan (Mahasiswa A)
+    // Dikerjakan oleh: Noufal (Mahasiswa D)
     $title = "Form Registrasi Mahasiswa";
     $arr_month = [
         "1" => "Januari",
